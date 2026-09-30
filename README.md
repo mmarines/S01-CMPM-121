@@ -1,6 +1,8 @@
 # CMPM 121 Section Activity starter
 
-This is the Fall 2026 S01 starter for making a small interactive page and learning the path from a local edit to a published site. The course template is public: you do **not** need to join the course GitHub organization. Create a **public** repository under your own GitHub account using the template's **Use this template → Create a new repository** button.
+With each click of the button, the counter increments by one.
+It also prints to the console every time the counter is incremented and what the count was incremented to.
+Within the button click event, I simply incremented the count, updated its visual representation with each increment, and printed that result to the console.
 
 ## Set up on your computer
 
